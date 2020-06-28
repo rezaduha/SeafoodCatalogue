@@ -1,0 +1,2 @@
+rootProject.name='SeafoodCatalogue'
+include ':app'

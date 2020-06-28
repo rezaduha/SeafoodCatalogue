@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seafood Catalogue</string>
+    <string name="about">About</string>
+    <string name="double_tap_alert">Tap Again to Exit</string>
+    <string name="image_description">Seafood Banner</string>
+    <string name="made_with">Made with \u2661 by\nReza Fauzi Zisiwa Duha\n1842101695</string>
+</resources>
